@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style
+        name="CustomTextView">
+    </style>
+
+    <style
+        name="CustomEditText">
+        <item name="singleLine">true</item>
+        <item name="android:inputType">number</item>
+    </style>
+</resources>
